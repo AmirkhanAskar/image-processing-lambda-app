@@ -51,13 +51,7 @@ Tests were run using **k6** with 15, 30, and 50 virtual users. The results confi
 
 ---
 
-## 📸 Demo Previews
 
-| Upload & Filter Selection | Object Detection |
-|---------------------------|------------------|
-| ![](screenshots/demo1.png) | ![](screenshots/yolo_output.png) |
-
----
 
 ## 👤 Author
 
